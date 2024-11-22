@@ -8,5 +8,7 @@ learning_rate = 1e-5
 resampling = 16000hz
 ```
 ```Best Training Loss: 0.0323933675793319```
-허깅페이스 : oxorudo/whisper_ssokssokword
+
+```허깅페이스 : oxorudo/whisper_ssokssokword```
+
 모델 safetensors는 허깅페이스에 있음.
